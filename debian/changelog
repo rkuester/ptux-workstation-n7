@@ -1,5 +1,5 @@
-ptux-workstation-n7 (1.0~0) UNRELEASED; urgency=low
+ptux-workstation-n7 (1.0) unstable; urgency=low
 
   * Initial release.
 
- -- Ryan Kuester <rkuester@insymbols.com>  Tue, 16 Apr 2013 16:11:23 -0500
+ -- Ryan Kuester <rkuester@insymbols.com>  Tue, 16 Apr 2013 16:15:05 -0500
