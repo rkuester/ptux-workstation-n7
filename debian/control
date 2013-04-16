@@ -1,0 +1,18 @@
+Source: ptux-workstation-n7
+Section: devel
+Priority: extra
+Maintainer: Ryan Kuester <rkuester@insymbols.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.4
+
+Package: ptux-workstation-n7
+Architecture: any
+Depends:
+ devpackages-ptux,
+ mkos-n7,
+ android-fastboot,
+ android-adb,
+ android-mkbootimg,
+ ${misc:Depends}
+Description: Pragmatux Workstation for n7
+ Installs all development tools required to develop for the Nexus 7.
